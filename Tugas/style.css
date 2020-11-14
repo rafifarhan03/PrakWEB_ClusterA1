@@ -1,0 +1,105 @@
+body {
+  background-color: #9ccd62;
+}
+
+.navbar ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #495464;
+}
+.navbar li {
+  float: right;
+  margin-right: 20px;
+}
+.navbar li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 40px;
+  text-decoration: none;
+}
+.navbar li a:hover {
+  text-transform: uppercase;
+  background-color: #bbbfca;
+}
+
+.navbar #logo img {
+  width: 50px;
+  position: absolute;
+  margin-top: 15px;
+  margin-left: 10px;
+}
+
+.content {
+  background-color: #f4f4f2;
+  display: block;
+  min-height: 830px;
+  padding: 20px;
+}
+.content img {
+  width: 180px;
+  border-radius: 50px;
+  border: 1px solid #17706e;
+}
+
+.content #index img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.content #index h1 {
+  text-align: center;
+  color: #1a1c20;
+}
+.content #index p {
+  text-align: justify;
+  text-decoration: none;
+  display: flex;
+  justify-content: space-between;
+  color: #1a1c20;
+}
+
+.content #galeri img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 250px;
+}
+.content #galeri p {
+  text-align: center;
+  text-decoration: none;
+  color: #1a1c20;
+}
+
+.content #kontak img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.content #kontak p {
+  text-align: center;
+  text-decoration: none;
+  color: #1a1c20;
+}
+
+.content #about img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.content #about p {
+  text-decoration: none;
+  display: flex;
+  justify-content: space-arround;
+  color: #1a1c20;
+}
+
+.footer p {
+  text-align: center;
+  text-decoration: none;
+  color: #1a1c20;
+}
+
+/*# sourceMappingURL=style.css.map */
