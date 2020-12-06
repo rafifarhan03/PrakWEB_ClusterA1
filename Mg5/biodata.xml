@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<biodata>
+    <nama>
+        <awal>Muhammad</awal>
+        <tengah>Rafi</tengah>
+        <akhir>Farhan</akhir>
+    </nama>
+    <jeniskelamin>Laki-laki</jeniskelamin>
+    <hobi>
+        <hobi1>Rebahan dulu</hobi1>
+        <hobi2>Rebahan terus</hobi2>
+    </hobi>
+    <alamat>
+        <kecamatan>Teluk Betung Timur</kecamatan>
+        <kabupaten>Bandar Lampung</kabupaten>
+    </alamat>
+    <socialMedia>
+        <github>rafifarhan03</github>
+        <instagram>rafifar03</instagram>
+    </socialMedia>
+</biodata>

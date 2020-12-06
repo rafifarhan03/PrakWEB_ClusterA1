@@ -1,0 +1,22 @@
+{
+    "biodata": {
+      "nama": {
+        "awal": "Muhammad",
+        "tengah": "Rafi",
+        "akhir": "Farhan"
+      },
+      "jeniskelamin": "Laki-laki",
+      "hobi": {
+        "hobi1": "Rebahan Dulu",
+        "hobi2": "Rebahan Terus"
+      },
+      "alamat": {
+        "kecamatan": "Teluk Betung Timur",
+        "kabupaten": "Bandar Lampung"
+      },
+      "socialMedia": {
+        "github": "rafifarhan03",
+        "instagram": "rafifar03"
+      }
+    }
+  }
